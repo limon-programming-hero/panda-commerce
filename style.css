@@ -21,3 +21,34 @@ border-radius: 10px;
     border-radius: 9px;
     background-image: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
 }
+.category h1{
+  color: #ffffff;
+}
+.category img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+}
+
+.cat1{
+background-color: orange;
+border-radius: 10px;
+}
+.cat2{
+background-color: orchid;
+border-radius: 10px;
+}
+.cat3{
+background-color: blue;
+border-radius: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
